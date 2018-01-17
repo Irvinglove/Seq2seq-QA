@@ -10,7 +10,7 @@
 
 ## Presentation
 
-This work tries to reproduce the results of [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) (aka the Google chatbot). It uses a RNN (seq2seq model) for sentence predictions. It is done using python and TensorFlow.
+This work tries to reproduce the results of [A Neural Conversational Model](http://arxiv.org/abs/1506.05869) (aka the Google chatbot). It uses a RNN (seq2seq model) for sentence predictions. It is done using python and TensorFlow. It's belongs to the [csdn blog](http://blog.csdn.net/Irving_zhang/article/details/79088143)
 
 For now, DeepQA support the following dialog corpus:
  * [Cornell Movie Dialogs](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) 
